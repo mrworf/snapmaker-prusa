@@ -8,6 +8,14 @@ adapt them to work on your machine. I will not make them since I cannot verify t
 Also, I have the SM2.0 enclosure as well which might impact your prints if you don't. Have not tested to
 see if that makes a big difference. Feel free to let me know.
 
+# How to use
+
+These profiles are exported as config bundles and then split into the specific parts. As such, to import them choose "File" > "Import" > "Import Config Bundle" and import each config. It will not work if you choose "Import Config".
+
+# Contributing
+
+To avoid having duplicates of printers/print configs, please split your configs while using "Export Config Bundle". You can tell the sections in the config bundle since they are separated by a line enclosed in square brackets (`[]`).  See e.g. [SnapMaker A350](Snapmaker%20A350/Snapmaker%20A350.ini) config as an example section extracted from a config bundle. Note how there is only one section (the `[printer:SnapMaker2 A350]` section) in that file.
+
 # Profiles
 
 If you add additional profiles, please add them to this section
