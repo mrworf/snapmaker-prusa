@@ -2,11 +2,15 @@
 
 This repo contains prusa slicer profiles specifically made to be used by Snapmaker 2.0 3D printers.
 
-Since I own an A250 myself, expect that to be the main focus. Should you own a 150 or 350, feel free to
-adapt them to work on your machine. I will not make them since I cannot verify them.
+A250 Contributors:
+ - [@mrworf](https://github.com/mrworf)
 
-Also, I have the SM2.0 enclosure as well which might impact your prints if you don't. Have not tested to
-see if that makes a big difference. Feel free to let me know.
+A350 Contributors:
+ - [@nivekmai](https://github.com/nivekmai)
+
+Note: Some of these configs can be reused for the A150, but currently no contributors have that model, so the usage of these settings on A150 is completely untested.
+
+Currently, all contributors use an enclosure as well which might impact your prints if you don't. We have not tested to see if that makes a big difference. Feel free to let us know.
 
 # How to use
 
@@ -15,6 +19,8 @@ These profiles are exported as config bundles and then split into the specific p
 # Contributing
 
 To avoid having duplicates of printers/print configs, please split your configs while using "Export Config Bundle". You can tell the sections in the config bundle since they are separated by a line enclosed in square brackets (`[]`).  See e.g. [SnapMaker A350](Snapmaker%20A350/Snapmaker%20A350.ini) config as an example section extracted from a config bundle. Note how there is only one section (the `[printer:SnapMaker2 A350]` section) in that file.
+
+Please also keep this README up to date while contributing.
 
 # Profiles
 
