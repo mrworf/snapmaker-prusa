@@ -59,5 +59,5 @@ Initial A250 PETG profile is based on the A350 PLA work by Edwin LIU from the sn
 - https://drive.google.com/drive/folders/1xfBgXZzwjKaeZ3iqscdpe2xosgFV03G0
 - https://forum.snapmaker.com/t/prusa-slicer-profile/5657/4
 
-A350 model taken from the late [@stefix](https://forum.snapmaker.com/u/stefix))'s "A351" f3d file:
+A350 model taken from the late [@stefix](https://forum.snapmaker.com/u/stefix)'s "A351" f3d file:
 - https://forum.snapmaker.com/t/my-new-snapmaker-2-0-a351/16502
