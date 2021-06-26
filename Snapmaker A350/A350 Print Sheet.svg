@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="snapmaker print sheet.svg">
+   sodipodi:docname="A350 Print Sheet.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="436.03787"
-     inkscape:cy="1212.2706"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="672.64195"
+     inkscape:cy="709.33578"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -165,7 +165,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#1d191a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#1d191a;fill-opacity:0.6546185;fill-rule:evenodd;stroke-width:0.264583"
        id="rect10"
        width="334"
        height="364"
