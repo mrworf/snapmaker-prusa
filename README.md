@@ -7,6 +7,7 @@ A250 Contributors:
 
 A350 Contributors:
  - [@nivekmai](https://github.com/nivekmai)
+ - [@WilliamBosacker](https://forum.snapmaker.com/u/williambosacker)
 
 Note: Some of these configs can be reused for the A150, but currently no contributors have that model, so the usage of these settings on A150 is completely untested.
 
@@ -42,14 +43,30 @@ Contains
 
 Note that you will have to set the model/texture in the `Bed shape` setting, unless you happen to be on Windows and saving the model/sheet to the same place
 
+### A250
+ - Part of A250-PETG bundle
+
 ## Print Settings
 ### MatterHackers Build PETG
 Mostly the same from the A250-PETG setup, tweaked infill and temperature.
 
+### HIGH/OPTIMAL/FAST/NORMAL
+Contributed by [@WilliamBosacker](https://forum.snapmaker.com/u/williambosacker).
+
 ## Filament Settings
 ### MatterHackers Build PETG
  - Transluscent Green
+ - Transluscent
  - White
+
+### OVERTURE PLA
+ - Gray
+
+### OVERTURE TPU
+ - White
+
+### Snapmaker PLA
+ - Black
 
 Not much configured in here other than colors (mostly the same as the A250-PETG bundle).
 
